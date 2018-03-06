@@ -1,6 +1,6 @@
 ReactJS - Pie Chart using HighCharts
 
-![alt text](https://github.com/kumarargutech/react-pie-highcharts/public/pie-chart.png)
+![alt text](https://github.com/kumarargutech/react-pie-highcharts/blob/master/public/pie-chart.png)
 
 
 Following the steps :
